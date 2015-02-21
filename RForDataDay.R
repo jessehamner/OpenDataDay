@@ -128,7 +128,7 @@ CountyPrecincts <- readShapePoly(
 
 
 # Get city boundary:
-CityLimits <- readShapePoly(system.file("/Users/jhh0085/Dropbox/nils/Citylimits/Citylimits.shp", 
+CityLimits <- readShapePoly(system.file("./Citylimits/Citylimits.shp", 
                             package="maptools"),
                             proj4string=CRS(Proj4Type1)
                             )
