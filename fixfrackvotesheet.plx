@@ -2,6 +2,19 @@
 use warnings;
 use strict;
 
+# Jesse Hamner
+# github.com/jessehamner/OpenDataDay
+# February 20, 2015
+
+# If you copy and paste the raw text output from the voting file from 
+# http://results.enr.clarityelections.com/TX/Denton/53684/149586/Web01/en/summary.html#
+
+# You could use this script to clean it into a tab-sep data matrix for easy import into 
+# many software packages. 
+
+# Note: you can download Excel-formatted data from clarityelections.com as well, but 
+# I've had some problems with their Excel files. 
+
 my $filename="frackvoteraw.txt";
 my $output="frackvotetabsep.txt";
 
