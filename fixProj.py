@@ -1,6 +1,8 @@
 #! /usr/bin/env python
 
-# borrowed from elsewhere. 
+# I didn't write this. It was borrowed from elsewhere. 
+# http://gis.stackexchange.com/questions/55196/how-can-i-get-the-proj4-string-or-epsg-code-from-a-shapefile-prj-file
+# Accessed on Feb 21 2015
 
 import sys
 from osgeo import osr
