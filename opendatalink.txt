@@ -1,10 +1,13 @@
-http://www.unt.edu/rss/FAQ.htm
 
+
+Open Data Day links:
 http://opendataday.org/map/
 https://okfn.org
 http://opendefinition.org/od/
-http://www.silk.co
+http://wiki.opendataday.org
 
+A few open data links:
+http://www.silk.co
 https://history.state.gov/departmenthistory/travels/president
 https://Dominoup.com
 http://cartodb.com
@@ -29,21 +32,30 @@ http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml
 http://catalog.data.gov/dataset/tiger-line-shapefile-2013-county-denton-county-tx-address-range-feature-county-based
 http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml
 
+Open Data downloads for Denton County Texas, and the City of Denton, Texas:
 http://www.cityofdenton.com/departments-services/departments-q-z/technology-services/geographic-information-systems-gis-
 http://data.dentontxgis.opendata.arcgis.com/datasets
 http://dentoncounty.com/Departments/Technology-Services/Geographic-Information-Systems/Download-Geographic-Data.aspx
 
+Denton County Election results (fracking vote):
 http://results.enr.clarityelections.com/TX/Denton/53684/149586/Web01/en/summary.html#
 
+Texas Natural Resources Information Service downloads:
 https://tnris.org/data-download/#/statewide
-https://docs.google.com/document/d/1fBuisDTIiBAz9u2tr7sgv6GdDLOV_aHbafjqHXSkNB0/edit?pli=1
-http://wiki.opendataday.org/2015/City_Events#United_States
 
-
+Open Source GIS software downloads:
 http://www.kyngchaos.com/software:frameworks
 http://www.kyngchaos.com/software/qgis
 http://www.kyngchaos.com/software/qgis
+
+Jon Nagler's advice on coding style:
 http://www.nyu.edu/classes/nagler/quant2/coding_style.html
+
+R command reference card & "cheat sheet"
 http://cran.r-project.org/doc/contrib/Short-refcard.pdf
 http://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
+
+Jon Starkweather's Statistical Resources:
+http://www.unt.edu/rss/class/Jon/ResourcesWkshp/
+http://www.unt.edu/rss/FAQ.htm
 
